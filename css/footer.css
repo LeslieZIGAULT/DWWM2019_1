@@ -7,8 +7,10 @@
     color: white;   
 }
 
-.footer {
-    display: inline-grid;
-    grid-column-gap: 100px;
+button {
+    background-color: white;
+    color: green;
+    border-radius: 10px;
+    padding: 10px;
 }
 
