@@ -13,10 +13,10 @@
     
     <nav>
         <ul>
-            <li> Accueil</li>
-            <li> Articles</li>
-            <li> Commandes</li>
-            <li> Client</li>
+            <li><a href="#Accueil">Accueil</a></li>
+            <li><a href="#Articles">Articles</a></li>
+            <li><a href="#Commandes">Commandes</a></li>
+            <li><a href="#Client">Client</a></li>
         </ul>
     </nav>
 </header>
