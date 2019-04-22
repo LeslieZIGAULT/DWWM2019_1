@@ -1,9 +1,9 @@
 
 
 <?php 
-<h2>FORMULAIRE</h2>
 
-<form action="/action_page.php">
+
+<form>
   Nom:<br>
     <input type="text" name="Nom">
       <br>
