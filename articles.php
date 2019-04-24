@@ -37,8 +37,8 @@
 
         <!--L'UNITE DU PRODUIT, BLOQUER LES UNITES NON PRIS EN CHARGE-->
 
-        <label for="nom">Unité</label>
-        <select name="nom" id="">
+        <label for="unit">Unité</label>
+        <select name="unit" id="">
             <option value="Sable">M³</option>
             <option value="Sable">Kg</option>
             <option value="Sable">L</option>
@@ -46,8 +46,8 @@
 
         <!--LA QUANTITE-->
 
-        <label for="nom">Quantité</label>
-        <select name="nom" id="">
+        <label for="quantity">Quantité</label>
+        <select name="quantity" id="">
             <option value="Sable">1</option>
             <option value="Sable">2</option>
             <option value="Sable">3</option>
