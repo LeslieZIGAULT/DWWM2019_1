@@ -1,13 +1,12 @@
 /* hashtag pour les id - Point pour les classes */
 
 #foot-container {
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: #000;
     color: white;
-    font-size: 16px;
     display: flex;
     padding: 45px 0 45px 0;
     margin: 100px 0 20px 0;
@@ -15,7 +14,7 @@
 
 .foot-content {
     width: 300px;
-    text-align: left; 
+    font-size: 14px;
 }
 
 button {
@@ -26,24 +25,39 @@ button {
     background-color: #000;
     color: #fff;
     text-align: center;
+    font-size: 16px;
+}
+
+.fab {
+    padding: 10px 0 10px 10px;
+    font-size: 28px;
+    text-align: center;
+    width: 50px;
 }
 
 footer ul {
     list-style: none;
     list-style-type: none;
+    text-decoration: none;
 }
 
 footer ul li a  {
     text-decoration: none;
 }
 
+footer a:link {
+    text-decoration: none;
+}
+
 #credit {
     background-color: #000;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     left: 0;
-    color: green;
+    color: #fff;
     width: 100%;
+    font-family: 'Handlee';
+    font-size: 10pt;
 }
 
 

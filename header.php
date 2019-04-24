@@ -5,12 +5,20 @@
      <meta charset="UTF-8">
      <title>Document</title>
 
-     <!-- LIENS CSS POUR LE FOOTER -->
+     <!-- LIENS CSS -->
      <link rel="stylesheet" href="css/footer.css" type="text/css">
+     <link rel="stylesheet" href="css/index.css" type="text/css">
+     <link rel="stylesheet" href="css/header.css" type="text/css">
+     
+     <!-- LIENS JAVASCRIPT-->
+     <script src="script/script.js"></script>
+
+     <!--LIENS POUR LES POLICES DE CARACTERES-->
+     <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
 
      <!-- LIENS POUR LES ICONS FONT AWESOME -->
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-     
+
      <!-- LIENS POUR BOOTSTRAP -->
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
