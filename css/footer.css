@@ -1,16 +1,51 @@
-#footer {
+/* hashtag pour les id - Point pour les classes */
+
+#foot-container {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
-    color: white;   
+    background-color: #000;
+    color: white;
+    font-size: 16px;
+    display: flex;
+    padding: 45px 0 45px 0;
+    margin: 100px 0 20px 0;
+}
+
+.foot-content {
+    width: 300px;
+    text-align: left; 
 }
 
 button {
-    background-color: white;
-    color: green;
-    border-radius: 10px;
+    border: #fff solid 2px;
+    width: 50%;
     padding: 10px;
+    border-radius: 5px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
 }
+
+footer ul {
+    list-style: none;
+    list-style-type: none;
+}
+
+footer ul li a  {
+    text-decoration: none;
+}
+
+#credit {
+    background-color: #000;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: green;
+    width: 100%;
+}
+
+
+
 
