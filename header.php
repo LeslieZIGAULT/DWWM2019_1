@@ -9,7 +9,7 @@
      <link rel="stylesheet" href="css/footer.css" type="text/css">
      <link rel="stylesheet" href="css/index.css" type="text/css">
      <link rel="stylesheet" href="css/header.css" type="text/css">
-     
+
      <!-- LIENS JAVASCRIPT-->
      <script src="script/script.js"></script>
 
@@ -20,26 +20,53 @@
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
      <!-- LIENS POUR BOOTSTRAP -->
-     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 
+  <!--
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+-->
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
 </head>
 <body>
-   
+
 <header>
-    
+
+  <nav class="navbar navbar-expand-sm bg-primary">
+
+    <!-- Links -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">Accueil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">Articles</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#">Clients</a>
+      </li>
+    </ul>
+
+  </nav>
+
+<!--
     <nav class="navbar navbar-expand-sm bg-primary navbar-dark">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
+        <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand navbar-light" href="#">Accueil</a>
     </div>
-    
+
    <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Portfolio</a></li>
@@ -51,9 +78,10 @@
       </ul>
     </div>
   </div>
-</nav> 
-          
- <!--   
+</nav>
+-->
+
+ <!--
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
   <a class="navbar-brand" href="#">Fixed navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -77,7 +105,5 @@
     </form>
   </div>
 </nav>-->
-           
-</header>
 
- 
+</header>
