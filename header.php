@@ -41,7 +41,7 @@
   <nav class="navbar navbar-expand-sm bg-primary">
 
     <!-- Links -->
-    <ul class="navbar-nav">
+    <ul class="navbar-nav ml-auto">
       <li class="nav-item">
         <a class="nav-link text-white" href="#">Accueil</a>
       </li>
