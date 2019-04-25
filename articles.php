@@ -28,12 +28,7 @@
 
         <!--SELECTION PRODUIT-->
         <label for="nom">Nom du produit</label>
-        <select name="nom" id="">
-            <option value="Sable">Sable</option>
-            <option value="Sable">Gravier</option>
-            <option value="Sable">Ciment</option>
-            <option value="Sable">Mortier</option>
-        </select> <br>
+        <input type="text" name="produit"> <br>
 
         <!--L'UNITE DU PRODUIT, BLOQUER LES UNITES NON PRIS EN CHARGE-->
 
