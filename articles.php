@@ -53,6 +53,7 @@
             <option value="Sable">3</option>
         </select> <br>
         
+        <h1>button</h1>
         <!--ENVOYER UNE IMAGE-->
         
         <input type="file"> <br>
