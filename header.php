@@ -49,6 +49,9 @@
         <a class="nav-link text-white" href="#">Articles</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link text-white" href="#">Commandes</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link text-white" href="#">Clients</a>
       </li>
     </ul>

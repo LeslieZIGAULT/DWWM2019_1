@@ -1,4 +1,7 @@
-.navbar-light{
+/*.navbar-light{
     background-color: azure;
     color:white;
+}*/
+.navbar-nav{
+    float: right;
 }
