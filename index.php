@@ -8,7 +8,7 @@ Pour mériter cette appellation, les gemmes doivent être naturelles, d'une cert
 
 les pierres précieuses (diamant, rubis, saphir et émeraude) ;
 les pierres fines, autrefois pierres semi-précieuses ou semi-fines, catégorie qui concerne toutes les gemmes qui ne figurent pas dans les quatre précédentes (grenat, lapis-lazuli, cornaline, jaspe, etc.). Cette catégorie est définie par une liste de la CIBJO (Confédération internationale de bijouterie, joaillerie, orfèvrerie des diamants, perles et pierres) ;
-les pierres organiques, catégorie dont font partie les gemmes issues de matière organique et non pas minérale (l'ambre, une résine fossile, le corail, formé par les colonies de polypes, la nacre, revêtement intérieur de certains mollusques, la perle, composée de nacre dont le mollusque se sert pour se protéger d'un élément étranger, le jais, un dérivé du charbon, etc.).
+les pierres organiques, catégorie dont font partie les gemmes issues de matière organique et non pas minérale (l'ambre, une résine fossile, le corail, formé par les colonies de polypes, la nacre, revêtement intérieur de certains mollusques, la perle, composée de nacre dont le mollusque se sert pour se protéger d'un élément étranger, le jais, un dérivé du charbon, etc...).
 
 
 
