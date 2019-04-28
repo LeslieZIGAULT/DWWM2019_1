@@ -1,14 +1,43 @@
 /* hashtag pour les id - Point pour les classes */
 
+footer {
+    padding 40px 0;
+    background-color: #007bff;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
 
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
+
+.social-list {
+    transition: 0.3s ease;
+    display: inline-block;
+    margin-bottom: 0;
+    font-size: 28px;
+    margin-right: 15px;
+}
+
+
+
+/*
 #foot-container {
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: #bdbdbd;
     color: #000;
     display: flex;
+    flex-wrap: wrap;
     padding: 45px 0 45px 0;
     margin: 100px 0 20px 0;
 }
@@ -63,6 +92,4 @@ footer a:link {
 footer a:hover {
     color: #1565c0;
 }
-
-
-
+*/

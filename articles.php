@@ -1,5 +1,7 @@
 <?php include('header.php');?>
-
+<?php
+echo "Vos articles"
+?>
 
 <?php 
 
