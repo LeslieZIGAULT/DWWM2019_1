@@ -1,6 +1,7 @@
 form {
-    width: 500px;
+    max-width: 500px;
     margin: auto;
+    padding: 15px;
 }
 
 form .btn {
