@@ -40,16 +40,16 @@
              <!-- Links -->
              <ul class="navbar-nav ml-auto">
                  <li class="nav-item">
-                     <a class="nav-link text-white" href="#">Accueil</a>
+                     <a class="nav-link text-white" href="index.php">Accueil</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" href="#">Articles</a>
+                     <a class="nav-link text-white" href="articles.php">Articles</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" href="#">Commandes</a>
+                     <a class="nav-link text-white" href="commandes.php">Commandes</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" href="#">Clients</a>
+                     <a class="nav-link text-white" href="client.php">Clients</a>
                  </li>
              </ul>
 
