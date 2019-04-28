@@ -1,5 +1,6 @@
 /* hashtag pour les id - Point pour les classes */
 
+
 #foot-container {
     position: absolute;
     left: 0;
@@ -62,5 +63,6 @@ footer a:link {
 footer a:hover {
     color: #1565c0;
 }
+
 
 
