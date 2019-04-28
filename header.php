@@ -6,9 +6,12 @@
      <title>Document</title>
 
      <!-- LIENS CSS -->
-     <link rel="stylesheet" href="css/footer.css" type="text/css">
-     <link rel="stylesheet" href="css/index.css" type="text/css">
      <link rel="stylesheet" href="css/header.css" type="text/css">
+     <link rel="stylesheet" href="css/index.css" type="text/css">
+     <link rel="stylesheet" href="css/articles.css" type="text/css">
+     <link rel="stylesheet" href="css/footer.css" type="text/css">
+
+
 
      <!-- LIENS JAVASCRIPT-->
      <script src="script/script.js"></script>
@@ -53,4 +56,3 @@
          </nav>
 
      </header>
-

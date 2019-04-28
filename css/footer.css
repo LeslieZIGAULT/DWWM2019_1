@@ -16,6 +16,7 @@ footer a {
 
 footer a:hover {
     text-decoration: none;
+    color: #000;
 }
 
 .social-list {
