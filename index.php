@@ -6,13 +6,13 @@ echo "<h2 class='text-center'>Bienvenue sur votre application</h2>";
 ?>
 
 <?php
-echo "<h2> G.L Materiaux</h2>";
+echo "<h2 class='text-center'> G.L Materiaux</h2>";
 ?>
 
 <?php
-echo "
-<p> Vous devez construire votre maison, refaire votre toiture, faire une clôture, monter une cloison, pour tout cela vous avez besoin de matériel de construction. G.L Matériaux est à votre disposition.</p>
-<p>Commandez en ligne nos produit! "
+echo 
+    "<p class='text-center'> Vous devez construire votre maison, refaire votre toiture, faire une clôture, monter une cloison, pour tout cela vous avez besoin de matériel de construction. G.L Matériaux est à votre disposition.Commandez en ligne nos produit!</p>"
+
 ?>
 
 
@@ -43,7 +43,7 @@ echo "
 <div class="box">
 
 </div>
-=======
+
 
 
 
