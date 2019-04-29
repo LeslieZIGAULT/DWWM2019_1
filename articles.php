@@ -65,7 +65,8 @@ echo "<h1 class='text-center'>Vos Articles</h1>"
 <?php include('footer.html');?>
 
 <!--Il est préférable de mettre le script en fin de document car le footer est entièrement chargé par le navigateur
-document.getElementById permet de 
+document.getElementById permet de selectionnez un élément du document par son id.
+style.background permet de change le style de notre fond dan snotre cas la couleur
 -->
 <script>
 document.getElementById('footer').style.background = '#1b5e20';
