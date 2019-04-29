@@ -37,20 +37,20 @@
 
          <nav class="navbar navbar-expand-sm bg-primary">
 
-        
+
              <!-- Links -->
              <ul class="navbar-nav ml-auto">
                  <li class="nav-item">
-                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#e55100'" href="index.php">Accueil</a>
+                     <a class="nav-link text-white" href="index.php">Accueil</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#1b5e20'" href="articles.php">Articles</a>
+                     <a class="nav-link text-white"  href="articles.php">Articles</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#4527a0'" href="commandes.php">Commandes</a>
+                     <a class="nav-link text-white"  href="commandes.php">Commandes</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#ad1457'" href="client.php">Clients</a>
+                     <a class="nav-link text-white"  href="client.php">Clients</a>
 
                  </li>
              </ul>

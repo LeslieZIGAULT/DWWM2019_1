@@ -10,7 +10,7 @@ echo "<h2 class='text-center'> G.L Materiaux</h2>";
 ?>
 
 <?php
-echo 
+echo
     "<p class='text-center'> Vous devez construire votre maison, refaire votre toiture, faire une clôture, monter une cloison, pour tout cela vous avez besoin de matériel de construction. G.L Matériaux est à votre disposition.Commandez en ligne nos produit!</p>"
 
 ?>
