@@ -40,16 +40,16 @@
              <!-- Links -->
              <ul class="navbar-nav ml-auto">
                  <li class="nav-item">
-                     <a class="nav-link text-white" href="#">Accueil</a>
+                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#e55100'" href="#">Accueil</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" href="#">Articles</a>
+                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#1b5e20'" href="#">Articles</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" href="#">Commandes</a>
+                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#4527a0'" href="#">Commandes</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" href="#">Clients</a>
+                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#ad1457'" href="#">Clients</a>
                  </li>
              </ul>
 
