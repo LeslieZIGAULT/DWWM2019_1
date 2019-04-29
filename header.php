@@ -38,7 +38,7 @@
         <nav class="navbar navbar-expand-sm bg-primary">
 
             <a class="navbar-brand" href="#">
-                <img src="images/glmateriaux.PNG" width="30" height="30" alt="">
+                <img src="images/logogood.png"width="300" height="50" alt="">
             </a>
             <!-- Links -->
             <ul class="navbar-nav ml-auto">
