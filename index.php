@@ -1,5 +1,6 @@
 <?php include('header.php');?>
 
+<<<<<<< HEAD
 <?php
 echo "<h2 class='text-center'>Bienvenue sur votre application</h2>";
 ?>
@@ -31,9 +32,18 @@ echo "<h2 class='text-center'>Bienvenue sur votre application</h2>";
 <div class="box">
 
 </div>
+=======
 
+<?php
+echo "<h2> G.L Materiaux</h2>";
+?>
 
-
+<?php
+echo "
+<p> Vous devez construire votre maison, refaire votre toiture, faire une clôture, monter une cloison, pour tout cela vous avez besoin de matériel de construction. G.L Matériaux est à votre disposition.</p>
+<p>Commandez en ligne nos produit! "
+?>
+>>>>>>> 9d959060a0f957d520b869e584e157960d34fc9e
 
 
 <?php include('footer.html');?>
