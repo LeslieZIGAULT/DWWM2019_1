@@ -41,29 +41,17 @@
              <!-- Links -->
              <ul class="navbar-nav ml-auto">
                  <li class="nav-item">
-<<<<<<< HEAD
-                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#e55100'" href="#">Accueil</a>
+                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#e55100'" href="index.php">Accueil</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#1b5e20'" href="#">Articles</a>
+                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#1b5e20'" href="articles.php">Articles</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#4527a0'" href="#">Commandes</a>
+                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#4527a0'" href="commandes.php">Commandes</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#ad1457'" href="#">Clients</a>
-=======
-                     <a class="nav-link text-white" href="index.php">Accueil</a>
-                 </li>
-                 <li class="nav-item">
-                     <a class="nav-link text-white" href="articles.php">Articles</a>
-                 </li>
-                 <li class="nav-item">
-                     <a class="nav-link text-white" href="commandes.php">Commandes</a>
-                 </li>
-                 <li class="nav-item">
-                     <a class="nav-link text-white" href="client.php">Clients</a>
->>>>>>> 9d959060a0f957d520b869e584e157960d34fc9e
+                     <a class="nav-link text-white" onclick="document.getElementById('footer').style.background = '#ad1457'" href="client.php">Clients</a>
+
                  </li>
              </ul>
 
