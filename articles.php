@@ -1,5 +1,4 @@
 <?php include('header.php');?>
-
 <?php
 echo "<h1 class='text-center'>Vos Articles</h1>"
 ?>
@@ -57,13 +56,9 @@ echo "<h1 class='text-center'>Vos Articles</h1>"
 
 
 
-<?php
+<?php 
 
 
 ?>
 
 <?php include('footer.html');?>
-
-<script>
-document.getElementById('footer').style.background = '#1b5e20';
-</script>
