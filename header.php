@@ -37,7 +37,7 @@
 
         <nav class="navbar navbar-expand-sm bg-primary">
 
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="index.php">
                 <img src="images/logogood.png"width="300" height="50" alt="">
             </a>
             <!-- Links -->
