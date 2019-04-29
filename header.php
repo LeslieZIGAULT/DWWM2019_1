@@ -3,7 +3,7 @@
 
  <head>
      <meta charset="UTF-8">
-     <title>Document</title>
+     <title>G.L Matériaux</title>
 
      <!-- LIENS CSS -->
      <link rel="stylesheet" href="css/header.css" type="text/css">
